@@ -1,1 +1,2 @@
-# Biomedical_Programming_Python
+# ¡Bienvenidos al repositorio de la MasterClass: Principios de programación y algoritmos en el ámbito biomédico! 
+El Instituto de Gerencia y Gestión Sanitaria de Unisanitas (IGGS) tiene el gusto de compartirles el material utilizado en el desarrollo de la clase. Si desean conocer más de nuestros programas, por favor escríbanos a jemoralesme@unisanitas.edu.co
